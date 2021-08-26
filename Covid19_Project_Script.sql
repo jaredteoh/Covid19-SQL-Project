@@ -1,3 +1,8 @@
+/*
+Covid19 Data Exploration
+Skills used: Joins, Common Table Expressions (CTE), Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+*/
+
 SELECT *
 FROM Covid..CovidDeaths
 ORDER BY 3, 4;
